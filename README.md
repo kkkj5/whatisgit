@@ -49,7 +49,7 @@ GIT이란 소스코드를 효율적으로 관리하기 위해 사용 하는 버�
 <br><strong>git과 git hub의 차이점</strong>
 <br>git에서는 자신의 로컬 소스코드를 관리(add,commit,merge) 할 수 있고
 <br>git hub는 내가 로컬에서 git으로 관리하는 자료들을 다른 사람과 공유하거나 '백업' 하는 웹사이트
-<br><strong><정리></strong>
+<br><strong>[정리하자면]</strong>
 <br>git : local내에서 소스코드를 관리하는 것, 버전관리를 위한 소프트웨어 (Git에는 다양한 종류가 있음)
 <br>github : local에서 관리한 소스코드를 업로드하고 공유할 수 있는 공간 (Git의 종류 중 하나로 가장 많이 사용됨)
 
